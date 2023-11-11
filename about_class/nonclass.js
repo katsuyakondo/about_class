@@ -5,8 +5,8 @@ let car1FuelLevel = 100;
 let car2Brand = "Honda";
 let car2Model = "N-BOX";
 let car2FuelLevel = 100;
-console.log(car1Brand);
-console.log(car2Model);
+console.log(car1Brand);//出力:Toyota
+console.log(car2Model);//出力:N-BOX
 
 
 // 燃料を消費する関数
