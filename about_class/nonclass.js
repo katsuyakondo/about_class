@@ -5,6 +5,9 @@ let car1FuelLevel = 100;
 let car2Brand = "Honda";
 let car2Model = "N-BOX";
 let car2FuelLevel = 100;
+console.log(car1Brand);
+console.log(car2Model);
+
 
 // 燃料を消費する関数
 function consumeFuel(carBrand, carModel, amount) {
